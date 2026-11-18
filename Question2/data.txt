@@ -1,0 +1,8 @@
+DATA LOG
+**********************************
+Customer Name: MAHLATSI OFENTSE
+Product: Sealy Phuket
+VAT: R 45.0
+COMMISSION: R 15.0
+TOTAL: R 360.0
+**********************************
